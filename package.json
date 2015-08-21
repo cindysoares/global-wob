@@ -4,6 +4,9 @@
   "name": "global-wob",
   "description": "A simple web application for Tech Challenge",
   "repository": "https://github.com/cindysoares",
+  "engines": {
+    "node": "0.10.x"
+  }
   "devDependencies": {
     "karma": "^0.12.16",
     "karma-chrome-launcher": "^0.1.4",
