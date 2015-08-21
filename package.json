@@ -5,8 +5,7 @@
   "description": "A simple web application for Tech Challenge",
   "repository": "https://github.com/cindysoares",
   "engines": {
-    "node": "0.10.x",
-	"npm": "2.1.x"
+    "node": "0.12.x"
   },
   "devDependencies": {
     "karma": "^0.12.16",
