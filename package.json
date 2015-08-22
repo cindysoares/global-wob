@@ -4,7 +4,7 @@
   "name": "global-wob",
   "description": "A simple web application for Tech Challenge",
   "repository": "https://github.com/cindysoares",
-   "engines": {
+  "engines": {
     "node": "0.10.x"
   },
   "devDependencies": {
