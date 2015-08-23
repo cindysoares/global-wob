@@ -1,11 +1,4 @@
-# global-wob
-# GLOBALwOL
-# globaLwOB
 # GlobaLwOB
-# global{w}ob
-# GlobaL{w}ob
-# GlobaL{w}OB
-# GlobaL-w-OB
 
 ## Objective
 
