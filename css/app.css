@@ -1,0 +1,17 @@
+footer {
+    background-color:#3a3939;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+    padding-bottom: 40px;
+    padding-top: 40 px;
+}
+
+a {
+	color: #e94398;
+}
+
+a:visited {
+    color: #e94398;
+}
