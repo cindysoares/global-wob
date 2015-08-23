@@ -19,7 +19,8 @@
     </head>
     <!-- NAVBAR
 ================================================== -->
-    <body>
+    <body class="ng-scope">
+    	<header>
         <div class="navbar-wrapper">
             <div class="container">
                 <div class="navbar navbar-inverse navbar-static-top" role="navigation">
@@ -72,6 +73,18 @@
                 </div>
             </div>
         </div>
+        </header>
+        <div class="content ng-scope" ng-view=""><style type="text/css" class="ng-scope">
+		  body > header {
+		    position: absolute;
+		    top: 0;
+		    width: 100%;
+		    background-color: rgba(0, 0, 0, 0.6);
+		    color: #fff;
+		    z-index: 1;
+		  }
+		  </style>
+  		</div>
         <!-- Carousel
     ================================================== -->
         <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
@@ -83,7 +96,7 @@
             </ol>
             <div class="carousel-inner">
                 <div class="item active">
-                    <img src="http://pinegrow.com/placeholders/img4.jpg" alt="First slide">
+                    <img src="http://www.connectnowbusinessnetwork.com/wp-content/uploads/women_in_business.jpg" alt="First slide">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>Are you looking for a Woman-owned business to engage?</h1>
