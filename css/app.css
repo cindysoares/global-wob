@@ -8,10 +8,19 @@ footer {
     padding-top: 40 px;
 }
 
+header {
+    background-color:#3a3939;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+    padding-bottom: 67px;
+}
+
 a {
-	color: #e94398;
+	color: #edecec;
 }
 
 a:visited {
-    color: #e94398;
+    color: #edecec;
 }
