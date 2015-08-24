@@ -13,13 +13,12 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  z-index: 20;
-  background-color: #3a3939;
 }
 /* Flip around the padding for proper display in narrow viewports */
 .navbar-wrapper .container {
   padding-left: 0;
   padding-right: 0;
+  background-color: #3a3939;
 }
 .navbar-wrapper .navbar {
   padding-left: 15px;
