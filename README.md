@@ -1,4 +1,4 @@
-# GlobaLwOB
+# Global W.O.B
 
 ## Objective
 
